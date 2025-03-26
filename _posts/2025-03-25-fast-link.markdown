@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fast Link"
+date:   2025-03-25 22:24:34 -0700
+categories: Pdnode
+---
+[github](https://github.com/BretRen)
+[Chat](https://teams.microsoft.com/v2/)
